@@ -1,0 +1,13 @@
+C:\development\Personal-Office\gitprojects\git-guide-1\bin\Debug\netcoreapp3.1\git-guide-1.exe
+C:\development\Personal-Office\gitprojects\git-guide-1\bin\Debug\netcoreapp3.1\git-guide-1.deps.json
+C:\development\Personal-Office\gitprojects\git-guide-1\bin\Debug\netcoreapp3.1\git-guide-1.runtimeconfig.json
+C:\development\Personal-Office\gitprojects\git-guide-1\bin\Debug\netcoreapp3.1\git-guide-1.runtimeconfig.dev.json
+C:\development\Personal-Office\gitprojects\git-guide-1\bin\Debug\netcoreapp3.1\git-guide-1.dll
+C:\development\Personal-Office\gitprojects\git-guide-1\bin\Debug\netcoreapp3.1\git-guide-1.pdb
+C:\development\Personal-Office\gitprojects\git-guide-1\obj\Debug\netcoreapp3.1\git-guide-1.csprojAssemblyReference.cache
+C:\development\Personal-Office\gitprojects\git-guide-1\obj\Debug\netcoreapp3.1\git-guide-1.AssemblyInfoInputs.cache
+C:\development\Personal-Office\gitprojects\git-guide-1\obj\Debug\netcoreapp3.1\git-guide-1.AssemblyInfo.cs
+C:\development\Personal-Office\gitprojects\git-guide-1\obj\Debug\netcoreapp3.1\git-guide-1.csproj.CoreCompileInputs.cache
+C:\development\Personal-Office\gitprojects\git-guide-1\obj\Debug\netcoreapp3.1\git-guide-1.dll
+C:\development\Personal-Office\gitprojects\git-guide-1\obj\Debug\netcoreapp3.1\git-guide-1.pdb
+C:\development\Personal-Office\gitprojects\git-guide-1\obj\Debug\netcoreapp3.1\git-guide-1.genruntimeconfig.cache
