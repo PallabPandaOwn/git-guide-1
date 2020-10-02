@@ -4,5 +4,5 @@
 
 # folder ignore ex - bin/
 
-bin/
-obj/
+/bin/*
+/obj/*
