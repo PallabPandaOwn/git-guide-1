@@ -1,0 +1,8 @@
+# specific file ignore  ex - info.txt
+
+# pattern ignore  ex - *.log
+
+# folder ignore ex - bin/
+
+bin/
+obj/
