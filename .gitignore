@@ -1,8 +1,37 @@
-# specific file ignore  ex - info.txt
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
 
-# pattern ignore  ex - *.log
+# Visual Studio Code
+.vscode
 
-# folder ignore ex - bin/
+# Rider
+.idea
 
-/bin/*
-/obj/*
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
